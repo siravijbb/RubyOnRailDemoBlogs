@@ -59,4 +59,4 @@ group :development do
   gem "rails_live_reload"
 end
 
-gem "tailwindcss-rails", "~> 3.0"
+gem "tailwindcss-rails", "~> 3.1"
